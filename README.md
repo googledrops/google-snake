@@ -1,2 +1,2 @@
-# google-snake
+# googledrops
 pro
